@@ -93,3 +93,9 @@ padding: 20px 0;
 }
 .estudante-todos{display: grid;
     grid-template-columns: 25% 25% 25% 25%;}
+
+    footer {
+        background-color: rgb(255, 0, 0);
+        color: rgb(0, 0, 0);
+        text-align: center
+    }
